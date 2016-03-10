@@ -1,0 +1,3 @@
+[submodule "Little-Man-Computer"]
+	path = Little-Man-Computer
+	url = https://github.com/michaelpearson/Little-Man-Computer.git
